@@ -7,3 +7,6 @@
 [submodule "assignment-2"]
 	path = assignment-2
 	url = https://github.com/Ruchirareddy11/AQI---AI-Simple-Reflex-Agent-.git
+[submodule "assignment-4"]
+	path = assignment-4
+	url = https://github.com/Ruchirareddy11/assignment-4.git
